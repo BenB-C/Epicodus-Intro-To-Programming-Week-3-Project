@@ -1,0 +1,22 @@
+body {
+  padding: 10px;
+  text-align: center;
+}
+
+#top-image {
+  padding: 15px;
+  width: 75%;
+}
+
+input {
+  width: 75%;
+}
+
+#output {
+  padding-top: 10px;
+  display: none;
+}
+
+#beepBoopNumber {
+  color: blue;
+}
