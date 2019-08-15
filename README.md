@@ -1,5 +1,5 @@
 # _Beep Boop_
-[https://benjbc.github.io/epicodus/week3/beep-boop/](https://benjbc.github.io/epicodus/week3/beep-boop/)
+https://benb-c.github.io/Epicodus-Intro-To-Programming-Week-3-Project
 
 #### _A web application that takes a number from a user and returns a range of numbers from 0 to the user inputted number, but with certain numbers replaced with special text, 2019.06.14_
 
